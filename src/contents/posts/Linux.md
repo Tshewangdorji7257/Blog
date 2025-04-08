@@ -3,7 +3,7 @@ title: Linux
 published: 2025-04-08
 description: A simple note about linux.
 tags: [Markdown, Blogging]
-category: Linux
+category: Example
 draft: false
 ---
 
